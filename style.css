@@ -59,6 +59,8 @@ input {
   color: #ffffff;
   border: 2px solid #b295ff;
   background-color: #6943ff;
+  width: 117px;
+  height: 83px;
   border-radius: 5px;
   outline: none;
 }
