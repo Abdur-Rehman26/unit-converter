@@ -41,8 +41,9 @@ h1 {
   font-weight: bold;
 }
 #convert-btn:hover {
-  background: #b295ff;
+  background: #6943ff;
   border-radius: 8px;
+  border: 1px solid #ffffff;
 }
 
 input {
