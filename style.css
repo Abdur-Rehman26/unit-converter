@@ -43,7 +43,6 @@ h1 {
 #convert-btn:hover {
   background: #b295ff;
   border-radius: 8px;
-  transform: scale(0.9);
 }
 
 input {
